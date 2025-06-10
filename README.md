@@ -4,4 +4,9 @@
 
 
 
-# Task 2: In this task, I create a menu-driven loop that allows the user to choose from writing data to a file, appending data to a file, or reading data from a file. For this program, I use 'w' mode for writing data in file, 'a' mode for appending data in file, and 'r' mode for reading data from file.
+# Task 2: In this task, I create a menu-driven loop that allows the user to choose from writing data to a file, appending data to a file, or reading data from a file. For this program, I use 'w' mode for writing data in a file, 'a' mode for appending data in file, and 'r' mode for reading data from a file.
+
+
+
+
+IN BOTH PROGRAMS, I USE STRIP() FUNCTION FOR READING DATA FROM FILE, THIS FUNCTION REMOVE LEADING AND TRAILING WHITESPACES FROM A STRING TO GIVE CLEAN DATA FOR THE FILE. THIS IS A BUILT-IN FUNCTION.
